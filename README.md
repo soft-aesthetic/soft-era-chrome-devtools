@@ -4,9 +4,9 @@
 
 🌸 Light pastel syntax theme for soft, warm, cozy, cute coding. 🌱
 
-⚠️🚧🚧🚧🚧⚠️
+<p><br><br>⚠️🚧🚧🚧🚧⚠️<br><br>
 awaiting pull request from a noble soul who wants to port this <3
-⚠️🚧🚧🚧🚧⚠️
+<br><br>⚠️🚧🚧🚧🚧⚠️<br><br></p>
 
 ![soft era syntax theme screenshot](screenshot.png)
 
